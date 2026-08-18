@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31174569/README.md)
+
 # Traffic Routing System (C++)
 
 A console-based traffic routing simulation for a city road network, built from scratch in C++ using core data structures — no external libraries.
